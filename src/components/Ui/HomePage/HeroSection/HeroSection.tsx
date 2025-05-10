@@ -37,8 +37,10 @@ const HeroSection = () => {
           Preventive Care
         </Typography>
         <Typography sx={{ my: 4 }}>
-          Get expert medical advice, prescriptions, and care — anytime,
-          anywhere. Talk to a licensed doctor in minutes. [Book a Consultation] [Learn More]
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit eum
+          iusto consequatur eius, doloribus nesciunt facere aliquid eveniet et.
+          Rerum maiores saepe cupiditate repellat recusandae atque sed. Saepe,
+          vitae id?
         </Typography>
         <Box sx={{ display: "flex", gap: 2 }}>
           <Button>Make appointment</Button>

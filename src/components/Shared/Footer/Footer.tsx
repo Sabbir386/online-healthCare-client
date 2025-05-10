@@ -50,7 +50,11 @@ const Footer = () => {
             fontWeight={600}
             color="white"
           >
-             <Box component={"span"} color="primary.main">H</Box>ealtCare 
+            P
+            <Box component="span" color="primary.main">
+              H
+            </Box>{" "}
+            Health Care
           </Typography>
           <Typography component="p" color="white">
             Privacy Policy! Terms & Conditions
